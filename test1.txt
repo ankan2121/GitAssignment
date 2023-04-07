@@ -1,0 +1,3 @@
+Git test file 2
+ Quick brown fox jumped over the lazy dog
+ The Quick brown fox jumped over the laxy dog 
